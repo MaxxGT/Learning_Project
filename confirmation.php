@@ -2,7 +2,6 @@
 	include('header.php');
 	$usr_email = $_REQUEST['usr_email'];
 	$usr_id = $_REQUEST['usr_id'];
-	
 	$first_name = $_REQUEST['first_name'];
 	$last_name = $_REQUEST['last_name'];
 	$usr_regDate = $_REQUEST['usr_regDate'];
